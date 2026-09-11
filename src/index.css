@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+::-webkit-scrollbar-track {
+  background: hsla(278, 41%, 15%, 0); /* Dark grey color, you can choose any color you like */
+}
+
+/* This part changes the scrollbar handle */
+::-webkit-scrollbar-thumb {
+  background: hsla(278, 69%, 25%, 0); /* Medium grey color, this is the actual scrollbar */
+}
+
+/* You can also change the scrollbar width and height */
+::-webkit-scrollbar {
+  width: 3px; /* Width of the vertical scrollbar */
+  height: 1px; /* Height of the horizontal scrollbar */
+}   

@@ -1,0 +1,1 @@
+### A modern, highly responsive, and interactive To-Do List application designed to help users track their daily tasks efficiently. Built using React for dynamic UI state management and Tailwind CSS for a clean, utility-first design, this application delivers a seamless user experience across mobile, tablet, and desktop viewports.
